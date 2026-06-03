@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CdScan.App/CdScan.App.csproj" />
+    <Project Path="src/CdScan.ConsoleTest/CdScan.ConsoleTest.csproj" />
+    <Project Path="src/CdScan.Core/CdScan.Core.csproj" />
+  </Folder>
+</Solution>
